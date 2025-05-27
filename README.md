@@ -12,7 +12,7 @@ Lançamento para retificar evento na REINF
 
 - Juros Sobre Capitas Próprio (JSCP)
 
-É lançado nesse exemplo apenas na Reta (Não se lança para as lojas menores) na qual é no mês do fechameno do trimestre, ou seja, Março, Junho, Setembro e Dezembro.
+É lançado nesse exemplo apenas na Reta (Não se lança para as lojas menores) na qual é no mês do fechamento do trimestre, ou seja, Março, Junho, Setembro e Dezembro.
 
 - Distribuição de Lucros
   
